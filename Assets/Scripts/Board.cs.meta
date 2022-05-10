@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: aec1a61ae90309840986fea743f53f72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _tileNormalPrefab: {instanceID: 0}
+  - _tileObstaclePrefab: {instanceID: 0}
+  - _adjacentBombPrefab: {instanceID: 0}
+  - _columnBombPrefab: {instanceID: 0}
+  - _rowBombPrefab: {fileID: 2481723438545498419, guid: 9d2da3a1db941da4db9d6ac6248bc12b,
+      type: 3}
+  - _colorBombPrefab: {fileID: 8236634574526634178, guid: ec1e4a7b7d2122a40881abacac9c1c26,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
